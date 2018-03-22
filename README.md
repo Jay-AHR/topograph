@@ -5,11 +5,13 @@ A tool to enable interaction with upstream Terraform code as libraries.
 ### Usage:
 
 `go install github.com/Jay-AHR/topograph`
+
 `topograph [command]`
 
 ### Available Commands:
 
   help        Help about any command
+
   version     Print the version number of Terraform via topograph
 
 ### Flags:
